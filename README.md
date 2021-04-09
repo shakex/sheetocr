@@ -36,7 +36,7 @@ Implementation of modern text detection and recognition models for OCR on financ
 ├── detection
 │   ├── 3rd/                # code for other text dection methods
 │   └── split_image.py      # text detection impl
-├── export
+├── tools
 │   ├── xml_vis.py          # export result (before and after ocr)
 │   └── xml2csv.py          # transform xml to csv format
 ├── recognition

@@ -10,7 +10,7 @@ import sys
 import shutil
 import time
 from inference import inference_batch
-from export.xml2csv import xml2csv, xml2csv_batch
+from tools.xml2csv import xml2csv, xml2csv_batch
 
 sys.path.append("..")
 import params
