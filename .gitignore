@@ -13,8 +13,7 @@ data/dataset/
 data/3rd_tools/
 serve/word_detected
 ocr_acc_for/
-demo/
-!demo.sh
+demo/word/
 google_trans2csv.py
 xml2pdf.py
 xml2png.py

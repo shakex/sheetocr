@@ -1,0 +1,2700 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Image name="zcfzb_000.png">
+		<ImageHead>
+			<Title>
+				<imageName description="the name of cutted image">zcfzb_000_000_0_H.png</imageName>
+				<leftUpIndex description="left-up coordinate">[35,499]</leftUpIndex>
+				<rightDownIndex description="right-down coordinate">[51,590]</rightDownIndex>
+				<content>资严灸饺表</content>
+				<isNotEmpty>True</isNotEmpty>
+			</Title>
+			<TitleInfo>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_001_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,178]</rightDownIndex>
+						<content>西茅代码</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_001_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,198]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,286]</rightDownIndex>
+						<content>０００１００．ＳＺ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_002_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,790]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,864]</rightDownIndex>
+						<content>报舍日期</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_002_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,884]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,982]</rightDownIndex>
+						<content>２０１５－１２－３１</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_003_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,178]</rightDownIndex>
+						<content>西茅简茶</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_003_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,197]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,264]</rightDownIndex>
+						<content>ＴＣＬ科技</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_004_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,852]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,888]</rightDownIndex>
+						<content>单位</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_004_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,909]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,982]</rightDownIndex>
+						<content>人民市元</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+			</TitleInfo>
+		</ImageHead>
+		<ImageBody>
+			<ImageBodyInfo>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_005_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[119,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[136,184]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>流动资产告</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_005_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[114,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[138,985]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_006_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[147,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>货币资金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_006_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[149,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,978]</rightDownIndex>
+						<content>１５．３４０．４１５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_007_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[175,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[192,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>结算各付金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_007_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[177,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[190,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_008_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[203,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[220,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>融出资金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_008_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[205,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[218,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_009_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[231,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[248,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>拆出资金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_009_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[233,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[246,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_010_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[259,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[276,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>交易性金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_010_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[261,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[274,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_011_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[287,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[304,569]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以公处份值计量里真交动计入当期损益的金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_011_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[289,836]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[304,978]</rightDownIndex>
+						<content>１６０．７８９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_012_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[315,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[332,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：安易性金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_012_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[317,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[330,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_013_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[343,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[360,695]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中·指定以公九价值计量目真安动计入当期损益的金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_013_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[345,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[358,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_014_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[371,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[388,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>舒生金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_014_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[373,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[386,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_015_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[399,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[416,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收票据及应收服款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_015_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[401,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[416,978]</rightDownIndex>
+						<content>１７－２６５２１４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_016_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[427,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[444,290]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>应收票据</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_016_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[429,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[444,978]</rightDownIndex>
+						<content>３．５７．４３６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_017_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[455,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[472,290]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>应收瓜款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_017_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[457,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[472,978]</rightDownIndex>
+						<content>１３．３０７．７７６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_018_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[483,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[500,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收就硕融资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_018_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[485,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[498,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_019_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[511,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[528,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>硕付救项</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_019_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[513,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[528,978]</rightDownIndex>
+						<content>Ｇ５６．Ｇ２６．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_020_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[539,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[556,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收保费</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_020_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[541,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[554,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_021_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[567,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[584,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收分保瓜款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_021_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[569,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[582,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_022_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[595,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[612,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收分保合同推各金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_022_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[597,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[610,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_023_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[623,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他应收款合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_023_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[625,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,978]</rightDownIndex>
+						<content>４３１６．２８５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_024_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[651,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：应收利息</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_024_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[653,844]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,978]</rightDownIndex>
+						<content>４９．３５４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_025_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[679,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：应收股利</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_025_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[681,854]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,978]</rightDownIndex>
+						<content>４．１９０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_026_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[707,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[724,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：其他应收款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_026_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[709,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[724,978]</rightDownIndex>
+						<content>４．２５２．７４１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_027_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[735,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[752,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收出口退我</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_027_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[737,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[750,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_028_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[763,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[780,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应收补贴款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_028_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[765,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[778,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_029_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[791,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[808,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>内部应收款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_029_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[793,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[806,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_030_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[819,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[836,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>贝入区售金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_030_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[821,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[834,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_031_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[847,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[864,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以雄余成本计量的金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_031_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[849,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[862,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_032_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[875,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[892,209]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>存货</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_032_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[877,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[892,978]</rightDownIndex>
+						<content>９．０２８．５５６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_033_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[903,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[920,605]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以公处份值计量里真交动计入其德综合收益的金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_033_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[905,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[918,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_034_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[931,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[948,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>合同资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_034_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[933,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[946,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_035_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[959,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[976,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>创分为持有待售的资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_035_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[961,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[974,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_036_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[987,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1004,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>一年内到期的非流动资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_036_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[989,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1002,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_037_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1015,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1032,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>代理业务资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_037_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1017,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1030,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_038_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1043,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1060,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他流动资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_038_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1045,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1060,978]</rightDownIndex>
+						<content>６．７５４．４２１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_039_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1071,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>流动资产其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_039_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1073,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,978]</rightDownIndex>
+						<content>２２７．１８３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_040_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1099,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1116,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>流动资产平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_040_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1101,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1114,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_041_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1127,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1144,295]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>流动资产合矿</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_041_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1129,810]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1144,978]</rightDownIndex>
+						<content>５：３．７９．４８９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_042_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1155,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1172,203]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>非济动资产告</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_042_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1150,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1174,985]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_043_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1183,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1200,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>发放贷款及垫款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_043_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1185,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1198,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_044_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1211,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1228,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>做权投资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_044_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1213,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1226,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_045_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1239,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1256,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其〇微权投资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_045_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1241,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1254,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_046_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1267,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1284,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以雄余成本计量的金融资产（非沈动）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_046_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1269,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1282,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_047_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1295,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1312,674]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以公处份值计量里其交动计入其德综合收益的金融资产（非沈动）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_047_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1297,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1310,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_048_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1323,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>可供出售金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_048_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1325,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,978]</rightDownIndex>
+						<content>３．１ｓｅ．０９３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_049_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1351,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1368,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>持有至到期投资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_049_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1353,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1366,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_050_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1379,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1396,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期应收款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_050_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1381,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1394,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_051_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1407,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期股权投资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_051_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1409,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,978]</rightDownIndex>
+						<content>７．９５５．３１１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_052_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1435,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1452,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资性房地产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_052_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1437,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1452,978]</rightDownIndex>
+						<content>Ｇ６６．２７４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_053_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1463,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1480,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>固定资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_053_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1465,809]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1480,978]</rightDownIndex>
+						<content>２５．０４２．１４４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_054_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1491,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1508,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>在建工程</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_054_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1493,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1508,978]</rightDownIndex>
+						<content>１１．５０３．８１１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_055_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1519,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1536,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>工程物资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_055_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1521,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1534,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_056_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1547,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1564,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其〇权益工具投资</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_056_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1549,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1562,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_057_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1575,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1592,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他非浦动金融资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_057_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1577,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1590,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_058_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1603,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1620,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>固定资产清理</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_058_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1605,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1618,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_059_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1631,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1648,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>生产性生物资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_059_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1633,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1646,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_060_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1659,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1676,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>油气资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_060_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1661,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1674,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_061_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1687,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1704,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>使用权资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_061_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1689,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1702,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_062_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1715,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1732,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>无形资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_062_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1717,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1732,978]</rightDownIndex>
+						<content>２．９８４．１７２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_063_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1743,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1760,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非流动资产平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_063_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1745,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1758,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_064_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1771,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1788,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>开发支出</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_064_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1773,821]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1788,978]</rightDownIndex>
+						<content>１．１７７．２３５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_065_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1799,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1816,209]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>商智</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_065_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1801,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1816,978]</rightDownIndex>
+						<content>Ｇｅ６．４ａ５．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_066_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1827,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1844,280]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期待雄费用</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_066_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1829,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1844,978]</rightDownIndex>
+						<content>４２３．６９９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_067_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1855,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1872,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>避运所得税资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_067_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1857,835]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1872,978]</rightDownIndex>
+						<content>７Ｏｇ．Ｇｓ６．０ｏ０．００ｏ０</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_068_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1883,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他非流动资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_068_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1885,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,978]</rightDownIndex>
+						<content>２．６５ｅ．５１２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_069_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1911,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1928,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非流动资产其伦项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_069_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1913,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1926,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_070_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1939,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非济动资产合评</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_070_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1941,810]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,978]</rightDownIndex>
+						<content>５８．００５．３３２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_071_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1967,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1984,278]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>资产美他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_071_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1969,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1982,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_072_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1995,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2012,278]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>资产平街项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_072_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1997,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2010,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_073_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2023,185]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2040,257]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>资严产总评</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_073_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2025,801]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2040,978]</rightDownIndex>
+						<content>１１１．７５４．８２１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_074_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2051,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2068,184]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>抗动煲街：</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_074_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2046,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2070,985]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_075_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2079,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2096,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>复期信款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_075_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2081,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2096,978]</rightDownIndex>
+						<content>１１２０７．７２８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_076_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2107,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2124,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>向中典银行借款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_076_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2109,836]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2124,978]</rightDownIndex>
+						<content>１５８．８１５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_077_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2135,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2152,336]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>吸收存数教及同业存放</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_077_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2137,845]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2152,978]</rightDownIndex>
+						<content>７９．２６１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_078_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2163,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2180,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>拆入资金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_078_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2165,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2178,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_079_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2191,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2208,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>交易性金融货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_079_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2193,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2206,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_080_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2219,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2236,569]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以公处份值计量里真交动计入当期损益的金融免链</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_080_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2221,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2236,978]</rightDownIndex>
+						<content>６７５．１８８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_081_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2247,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2264,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：安易性金融货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_081_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2249,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2262,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_082_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2275,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2292,695]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中·指定以公九价值计量目真安动计入当期损益的金融货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_082_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2277,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2290,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_083_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2303,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2320,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>舒生金融免镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_083_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2305,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2318,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_084_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2331,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2348,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付票据及应付服款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_084_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2333,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2348,978]</rightDownIndex>
+						<content>１７．３６６．５６７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_085_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2359,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2376,290]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>应付票据</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_085_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2361,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2376,978]</rightDownIndex>
+						<content>３．７７３．９７０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_086_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2387,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2404,290]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>应付服款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_086_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2389,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2404,978]</rightDownIndex>
+						<content>１３．Ｇ２２．５８７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_087_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2415,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2432,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>硕收裁项</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_087_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2417,835]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2432,978]</rightDownIndex>
+						<content>Ｓｅｓ．３６ｓ．０ｏ０．００ｏｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_088_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2443,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2460,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>合同货馈</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_088_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2445,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2458,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_089_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2471,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2488,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>卖出回购金融资产款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_089_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2473,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2486,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_090_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2499,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2516,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付手线费及用会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_090_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2501,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2514,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_091_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2527,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2544,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付眼工辅刷</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_091_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2529,821]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2544,978]</rightDownIndex>
+						<content>１．Ｓ０５．８５４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_092_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2555,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2572,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应交税炎</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_092_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2557,835]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2572,978]</rightDownIndex>
+						<content>９ｅｏ．Ｓ７６．０ｏ０．００ｏ０</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_093_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2583,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2600,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他应付款合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_093_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2585,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2600,978]</rightDownIndex>
+						<content>１３．９９９．３５４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_094_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2611,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2628,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中｜瓜村利息</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_094_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2613,836]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2628,978]</rightDownIndex>
+						<content>１８５．０９９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_095_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2639,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2656,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：瓜付股利</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_095_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2641,836]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2656,978]</rightDownIndex>
+						<content>１３１：３５７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_096_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2667,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2684,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：其他应付款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_096_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2669,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2684,978]</rightDownIndex>
+						<content>１３．６８２．ｅｅｅ．０ｏ０．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_097_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2695,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2712,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付分保瓜款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_097_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2697,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2710,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_098_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2723,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2740,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>内部应付款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_098_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2725,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2738,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_099_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2751,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2768,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>设计沈动货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_099_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2753,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2766,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_100_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2779,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2796,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>保险合同推各金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_100_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2781,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2794,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_101_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2807,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2824,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>代理买卖证芬款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_101_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2809,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2822,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_102_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2835,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2852,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>代理承铺证芬款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_102_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2837,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2850,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_103_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2863,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2880,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>一年内的迪型收益</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_103_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2865,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2878,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_104_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2891,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2908,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以雄余成本计量的金融食链</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_104_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2893,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2906,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_105_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2919,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2936,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付复期俊务</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_105_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2921,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2934,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_106_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2947,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2964,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>创分为持有待售的货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_106_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2949,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2962,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_107_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2975,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2992,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>一年内到期的非流动货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_107_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2977,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2992,978]</rightDownIndex>
+						<content>３．９０９．９０３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_108_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3003,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3020,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>代理业务货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_108_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3005,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3018,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_109_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3031,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3048,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他流动货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_109_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3033,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3048,978]</rightDownIndex>
+						<content>２．４０８．５１５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_110_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3059,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3076,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>流动免使其伦项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_110_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3061,834]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3076,978]</rightDownIndex>
+						<content>２２７．１８３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_111_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3087,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3104,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>流动负衡平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_111_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3089,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3102,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_112_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3115,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3132,295]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>抗动煲使合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_112_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3117,810]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3132,978]</rightDownIndex>
+						<content>５３．Ｓ７２．７０７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_113_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3143,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3160,203]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>非济动线：</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_113_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3138,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3162,985]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_114_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3171,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3188,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期信款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_114_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3173,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3188,978]</rightDownIndex>
+						<content>１１．９４９２７３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_115_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3199,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3216,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>以雄余成本计量的金融免使（非流动）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_115_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3201,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3214,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_116_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3227,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3244,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>应付使务</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_116_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3229,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3244,978]</rightDownIndex>
+						<content>２．４８３．３７５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_117_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3255,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3272,404]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中；优先股（应付俊务）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_117_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3257,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3270,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_118_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3283,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3300,404]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：永线使（应付俊务）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_118_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3285,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3298,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_119_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3311,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3328,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>租赁货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_119_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3313,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3326,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_120_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3339,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3356,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期应付款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_120_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3341,846]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3356,978]</rightDownIndex>
+						<content>１０．５３０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_121_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3367,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3384,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期应付职工荔刷</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_121_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3369,844]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3384,978]</rightDownIndex>
+						<content>２８．４０９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_122_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3395,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3412,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>专硕应付款</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_122_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3397,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3410,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_123_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3423,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3440,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>设计纹镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_123_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3425,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3438,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_124_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3451,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3468,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>避型收益</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_124_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3453,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3468,978]</rightDownIndex>
+						<content>５．４９９．３７６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_125_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3479,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3496,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>避通所得税灸镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_125_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3481,836]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3496,978]</rightDownIndex>
+						<content>１４４．８１３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_126_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3507,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3524,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他非流动货镜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_126_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3509,845]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3524,978]</rightDownIndex>
+						<content>３Ｇ．ａｓｒ．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_127_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3535,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3552,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非流动免使其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_127_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3537,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3550,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_128_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3563,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3580,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非流动免使平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_128_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3565,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3578,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_129_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3591,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3608,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>非济动伤合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_129_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3593,809]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3608,978]</rightDownIndex>
+						<content>２０．１５２．６７３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_130_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3619,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3636,278]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>鱼饺其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_130_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3621,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3634,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_131_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3647,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3664,278]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>鱼饺平街项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_131_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3649,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3662,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_132_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3675,185]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3692,257]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>贸使合研</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_132_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3677,810]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3692,978]</rightDownIndex>
+						<content>７４．１２５．３８０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_133_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3703,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3720,318]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>所有者权益Ｇ成股权品）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_133_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3698,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3722,985]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_134_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3731,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3748,296]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>交收资木（股木</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_134_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3733,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3748,978]</rightDownIndex>
+						<content>１２．２２８．３６０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_135_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3759,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3776,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其〇权益工具</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_135_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3761,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3774,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_136_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3787,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3804,440]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中；优先股（其他权益工具）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_136_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3789,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3802,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_137_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3815,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3832,440]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其中：永线俊（其他权益工具）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_137_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3817,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3830,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_138_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3843,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3860,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>其：其他（其他权益工具）</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_138_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3845,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3858,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_139_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3871,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3888,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>资本公积金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_139_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3873,820]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3888,978]</rightDownIndex>
+						<content>５．０７５．　２４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_140_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3899,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3916,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其伦综合收益</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_140_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3901,828]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3916,977]</rightDownIndex>
+						<content>－７８３．７０ｓ．０００．０ｏ０ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_141_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3927,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3944,227]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>摩存胶</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_141_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3929,844]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3944,978]</rightDownIndex>
+						<content>６９．９９１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_142_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3955,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3972,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>专项储备</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_142_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3957,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3970,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_143_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3983,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4000,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>盛余公积</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_143_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3985,835]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4000,978]</rightDownIndex>
+						<content>Ｓ６ｓ．ｏ５：．０ｏ０．００ｏｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_144_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4011,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4028,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>一股风险准各</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_144_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4013,870]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4028,978]</rightDownIndex>
+						<content>３６１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_145_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4039,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4056,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>未浦定的投资损线</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_145_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4041,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4054,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_146_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4067,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4084,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>未分配利湘</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_146_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4069,819]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4084,978]</rightDownIndex>
+						<content>６．７９３．６０４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_147_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4095,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4112,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投分配现金股利</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_147_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4097,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4110,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_148_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4123,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4140,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>外币报表折算盖颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_148_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4125,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4138,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_149_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4151,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4168,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>明属于母公司股东权益其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_149_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4153,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4166,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_150_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4179,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4196,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>明属于母公司股权益平街项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_150_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4181,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4194,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_151_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4207,185]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4224,409]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>月属于码公司股东权益合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_151_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4209,809]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4224,978]</rightDownIndex>
+						<content>２４２１０．１０５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_152_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4235,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4252,295]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>少数股东权益</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_152_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4237,811]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4252,978]</rightDownIndex>
+						<content>１３．４１．３３６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_153_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4263,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4280,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>股权益其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_153_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4265,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4278,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_154_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4291,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4308,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>股权权益平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_154_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4293,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4306,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_155_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4319,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4336,295]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>股东权益合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_155_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4321,810]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4336,978]</rightDownIndex>
+						<content>３７．６２９．４４１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_156_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4347,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4364,368]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>鱼做和股权益其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_156_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4349,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4362,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_157_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4375,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4392,368]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>鱼做及股权益平街项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_157_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4377,925]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4390,978]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">zcfzb_000_158_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4403,185]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4420,352]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>免使和股权益合计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">zcfzb_000_158_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[4405,801]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[4420,978]</rightDownIndex>
+						<content>１１１．７５４．８２１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+			</ImageBodyInfo>
+		</ImageBody>
+	</Image>

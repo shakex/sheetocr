@@ -1,0 +1,2173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Image name="xjllb_000.png">
+		<ImageHead>
+			<Title>
+				<imageName description="the name of cutted image">xjllb_000_000_0_H.png</imageName>
+				<leftUpIndex description="left-up coordinate">[35,467]</leftUpIndex>
+				<rightDownIndex description="right-down coordinate">[51,559]</rightDownIndex>
+				<content>现金流量表</content>
+				<isNotEmpty>True</isNotEmpty>
+			</Title>
+			<TitleInfo>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_001_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,178]</rightDownIndex>
+						<content>西茅代码</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_001_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,198]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,286]</rightDownIndex>
+						<content>０００１００．ＳＺ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_002_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,729]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,803]</rightDownIndex>
+						<content>报舍日期</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_002_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,823]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,921]</rightDownIndex>
+						<content>２０１５－１２－３１</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_003_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,178]</rightDownIndex>
+						<content>西茅简茶</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_003_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,197]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,264]</rightDownIndex>
+						<content>ＴＣＬ科技</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_004_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,791]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,827]</rightDownIndex>
+						<content>单位</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_004_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,848]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,921]</rightDownIndex>
+						<content>人民市元</content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+			</TitleInfo>
+		</ImageHead>
+		<ImageBody>
+			<ImageBodyInfo>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_005_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[119,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[136,355]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>一，经营活动产生的现金流泳量；</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_005_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[114,714]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[138,924]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_006_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[147,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>销售商品、提供劳务收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_006_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[149,740]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,917]</rightDownIndex>
+						<content>１１２．Ｇ０６．２９２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_007_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[175,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[192,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>客户存款和同业存放教硕净端加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_007_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[177,777]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[192,916]</rightDownIndex>
+						<content>－７５．７８５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_008_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[203,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[220,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>向中典银行借款净增加领</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_008_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[205,777]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[220,916]</rightDownIndex>
+						<content>－８ｓ．ｄ０２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_009_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[231,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[248,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>向其他金融机构拆入资金净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_009_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[233,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[246,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_010_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[259,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[276,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到原保险合同保费取得的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_010_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[261,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[274,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_011_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[287,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[304,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到商保险业务现金净锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_011_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[289,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[302,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_012_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[315,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[332,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>保产储金及投资教净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_012_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[317,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[330,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_013_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[343,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[360,407]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>外霞交易性金融资产海增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_013_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[345,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[358,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_014_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[371,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[388,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收取利息、手费及明金的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_014_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[373,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[388,917]</rightDownIndex>
+						<content>２９９．１７１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_015_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[399,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[416,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>拆入资金净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_015_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[401,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[414,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_016_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[427,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[444,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>发放货款及垫款的净减颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_016_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[429,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[442,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_017_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[455,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[472,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>回购业务资金净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_017_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[457,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[470,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_018_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[483,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[500,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到的税费迈迁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_018_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[485,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[500,917]</rightDownIndex>
+						<content>３．ｓ７．Ｇ７ｅ．０ｏ０．００ｏ０</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_019_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[511,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[528,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到其他与经营清动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_019_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[513,758]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[528,917]</rightDownIndex>
+						<content>２．４９４．０５６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_020_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[539,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[556,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流入其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_020_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[541,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[554,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_021_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[567,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[584,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流入平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_021_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[569,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[582,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_022_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[595,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[612,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流入小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_022_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[597,740]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[612,917]</rightDownIndex>
+						<content>１１９．０９５．０１０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_023_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[623,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>购买商品、接爱劳务支付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_023_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[625,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,917]</rightDownIndex>
+						<content>９Ｏ．３ｅｅ．Ｇｓｓ．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_024_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[651,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>客户贷款及垫教净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_024_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[653,767]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,916]</rightDownIndex>
+						<content>－１３１．６Ｓ５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_025_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[679,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>存放中央银行和同业救硕净端加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_025_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[681,767]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,916]</rightDownIndex>
+						<content>－２６６．１５１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_026_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[707,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[724,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付原保险合同腊付数项的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_026_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[709,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[722,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_027_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[735,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[752,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付利息、手费及研金的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_027_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[737,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[750,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_028_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[763,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[780,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付保单红利的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_028_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[765,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[778,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_029_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[791,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[808,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>文付给职工以及为职工文付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_029_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[793,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[808,917]</rightDownIndex>
+						<content>７．７０６．１１０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_030_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[819,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[836,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付的各硕税炎</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_030_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[821,758]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[836,917]</rightDownIndex>
+						<content>４．０１３．１９６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_031_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[847,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[864,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付其他与经营清动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_031_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[849,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[864,917]</rightDownIndex>
+						<content>９．９８９．７８０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_032_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[875,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[892,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流出其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_032_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[877,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[890,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_033_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[903,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[920,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流出平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_033_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[905,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[918,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_034_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[931,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[948,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流出小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_034_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[933,740]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[948,917]</rightDownIndex>
+						<content>１１１．７００．３５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_035_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[959,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[976,476]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动产生的现金流量详锁其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_035_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[961,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[974,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_036_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[987,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1004,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流量净锁平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_036_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[989,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1002,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_037_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1015,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1032,428]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动产生的现金济量消锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_037_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1017,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1032,917]</rightDownIndex>
+						<content>Ｚ．３９ｄ．０７５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_038_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1043,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1060,355]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>二，投资活动产生的现金流泳量；</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_038_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1038,714]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1062,924]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_039_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1071,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收国投资收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_039_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1073,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,917]</rightDownIndex>
+						<content>１４８１２．７２８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_040_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1099,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1116,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>取得投资收益收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_040_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1101,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1116,917]</rightDownIndex>
+						<content>Ｇ７３．８ｓｓ．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_041_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1127,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1144,623]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>外霞固定资产、无形资产和其他长期资产收回的现金净锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_041_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1129,783]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1144,917]</rightDownIndex>
+						<content>２５．３０１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_042_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1155,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1172,515]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>外贸宁公司及其德营业单位收到的现金净锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_042_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1157,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1172,917]</rightDownIndex>
+						<content>４０３．７Ｇ６．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_043_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1183,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1200,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>减少质押和定期存教所收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_043_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1185,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1198,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_044_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1211,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1228,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到其他与投资活动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_044_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1213,784]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1228,917]</rightDownIndex>
+						<content>７ｅ．５３ｅ．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_045_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1239,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1256,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流入其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_045_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1241,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1254,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_046_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1267,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1284,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流入平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_046_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1269,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1282,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_047_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1295,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1312,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流入小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_047_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1297,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1312,917]</rightDownIndex>
+						<content>１５．９９５．２２９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_048_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1323,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,587]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>购建固定资产、无形资产和其他长期资产文付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_048_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1325,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,917]</rightDownIndex>
+						<content>１６．５７７．Ｓ５６．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_049_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1351,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1368,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资支付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_049_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1353,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1368,917]</rightDownIndex>
+						<content>１Ｅ．８６７．ｓ３６．０ｏ０．００ｏ０</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_050_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1379,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1396,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>质押货教净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_050_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1381,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1394,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_051_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1407,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,515]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>取得宁公司及其德营业单位文付的现金净锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_051_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1409,784]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,917]</rightDownIndex>
+						<content>３６．３２１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_052_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1435,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1452,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>增加威押和定期有教所文付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_052_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1437,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1450,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_053_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1463,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1480,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付其他与投资活动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_053_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1465,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1478,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_054_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1491,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1508,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流出其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_054_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1493,794]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1508,917]</rightDownIndex>
+						<content>７．７０１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_055_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1519,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1536,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流出平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_055_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1521,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1534,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_056_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1547,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1564,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动现金流出小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_056_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1549,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1564,917]</rightDownIndex>
+						<content>３５．４ｓ２．９１４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_057_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1575,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1592,476]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动产生的现金流量详锁其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_057_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1577,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1590,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_058_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1603,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1620,476]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动产生的现金流量净锁平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_058_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1605,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1618,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_059_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1631,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1648,428]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资活动产生的现金济量消锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_059_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1633,742]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1648,916]</rightDownIndex>
+						<content>－１９．Ｑ９７．６８５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_060_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1659,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1676,355]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>三、芬资活动产生的现金流济量；</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_060_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1654,714]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1678,924]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_061_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1687,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1704,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>吸收投资收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_061_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1689,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1704,917]</rightDownIndex>
+						<content>１０．５３５．８６５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_062_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1715,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1732,506]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其中：宁公司吸收办数股务投资收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_062_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1717,758]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1732,917]</rightDownIndex>
+						<content>４．８３９．５９．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_063_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1743,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1760,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>取得借教收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_063_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1745,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1760,917]</rightDownIndex>
+						<content>４２．Ｇ７５．０７８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_064_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1771,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1788,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>发行俊务收到的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_064_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1773,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1788,917]</rightDownIndex>
+						<content>３．９４７．８７９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_065_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1799,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1816,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>收到其他与等资活动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_065_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1801,774]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1816,917]</rightDownIndex>
+						<content>９１３４１８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_066_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1827,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1844,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>将资活动现金流入其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_066_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1829,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1842,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_067_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1855,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1872,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>将资活动现金流入平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_067_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1857,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1870,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_068_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1883,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>将资活动现金流入小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_068_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1885,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,917]</rightDownIndex>
+						<content>５８．０７２．２４０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_069_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1911,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1928,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>修达务支付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_069_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1913,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1928,917]</rightDownIndex>
+						<content>４０．３２４．９６９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_070_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1939,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,479]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>分配股利，利润威俊付利息文付的现金</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_070_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1941,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,917]</rightDownIndex>
+						<content>３．１９０．１７４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_071_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1967,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1984,506]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>宁公司支付给纱数股务的股利、利润</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_071_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1969,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1984,917]</rightDownIndex>
+						<content>４ｓｅ．６２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_072_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1995,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2012,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>购买了公司少数股权面文付的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_072_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1997,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2010,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_073_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2023,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2040,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>支付其他与等资活动有美的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_073_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2025,774]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2040,917]</rightDownIndex>
+						<content>７９０．２２０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_074_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2051,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2068,497]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其中＝宁公司减资支付给纱数股务的现会</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_074_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2053,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2066,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_075_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2079,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2096,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>劳资活动现金流出其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_075_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2081,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2094,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_076_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2107,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2124,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>劳资活动现金流出平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_076_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2109,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2122,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_077_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2135,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2152,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>劳资活动现金流出小计</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_077_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2137,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2152,917]</rightDownIndex>
+						<content>４４．３０５．３６３．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_078_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2163,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2180,476]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>将资活动产生的现金流量详锁其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_078_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2165,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2178,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_079_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2191,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2208,476]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>将资活动产生的现金流量净锁平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_079_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2193,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2206,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_080_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2219,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2236,428]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>纺资活动产生的现金济量消锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_080_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2221,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2236,917]</rightDownIndex>
+						<content>１３．７Ｇ６．８７７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_081_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2247,105]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2264,355]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>四、现金及现金等价物嘴加。</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_081_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2242,714]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2266,924]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_082_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2275,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2292,461]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>汇李安动对现金及现金等价物的彩响</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_082_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2277,774]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2292,917]</rightDownIndex>
+						<content>５５５．８５７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_083_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2303,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2320,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金及现金等价物净道加敏其伦项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_083_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2305,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2318,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_084_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2331,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2348,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金及现金等价物净道加额平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_084_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2333,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2346,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_085_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2359,184]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2376,409]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金及现金锋价物净啦加敬</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_085_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2361,758]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2376,917]</rightDownIndex>
+						<content>２．２１９．１２４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_086_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2387,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2404,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>期初现金及现金等价物余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_086_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2389,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2404,917]</rightDownIndex>
+						<content>１０．５８７．０８：．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_087_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2415,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2432,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>妙未现金及现金等价物余颜其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_087_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2417,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2430,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_088_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2443,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2460,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>妙未现金及现金等价物余额平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_088_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2445,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2458,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_089_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2471,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2488,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>妙未现金及现金等价物余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_089_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2473,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2488,917]</rightDownIndex>
+						<content>１２．８０６．２０７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_090_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2499,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2516,184]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content>补元资料＝</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_090_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2494,714]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2518,924]</rightDownIndex>
+						<content />
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_091_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2527,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2544,326]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>净利润一现金流量表</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_091_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2529,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2544,917]</rightDownIndex>
+						<content>３．２３０．００９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_092_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2555,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2572,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>资产诚值灌备</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_092_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2557,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2572,917]</rightDownIndex>
+						<content>４７０．４１９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_093_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2583,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2600,406]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>固定资产和投资性房地产折服</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_093_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2585,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2600,917]</rightDownIndex>
+						<content>３．６ｓｅ．５７３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_094_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2611,231]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2628,640]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>固定资产折喝、油气资产折花、生产性生物资产折服</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_094_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2613,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2628,917]</rightDownIndex>
+						<content>３．６ｓｅ．５７３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_095_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2639,230]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2656,370]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>投资性房地产折幅</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_095_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2641,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2654,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_096_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2667,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2684,280]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>无形资产推锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_096_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2669,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2684,917]</rightDownIndex>
+						<content>２４１．７５８．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_097_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2695,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2712,316]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>长期待雄费用辅销</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_097_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2697,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2712,917]</rightDownIndex>
+						<content>１０５．９２４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_098_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2723,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2740,280]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>避运收益维销</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_098_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2725,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2738,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_099_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2751,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2768,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>椅雄费用的减外</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_099_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2753,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2766,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_100_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2779,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2796,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>硕提费用的增加</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_100_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2781,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2794,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_101_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2807,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2824,551]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>外霞固定资产、无形资产和其他长期资产的损线</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_101_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2809,793]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2824,917]</rightDownIndex>
+						<content>２．３７０．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_102_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2835,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2852,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>固定资产报度损先</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_102_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2837,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2850,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_103_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2863,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2880,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>公处价值资动损先</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_103_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2865,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2880,917]</rightDownIndex>
+						<content>１９２．８０２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_104_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2891,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2908,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>财务费用</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_104_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2893,760]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2908,917]</rightDownIndex>
+						<content>１．２６４．８９４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_105_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2919,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2936,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>投资损线</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_105_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2921,752]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2936,916]</rightDownIndex>
+						<content>－１．７０９．８８２．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_106_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2947,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2964,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>避通所得税</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_106_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2949,767]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2964,916]</rightDownIndex>
+						<content>－１５５．９７９．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_107_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2975,230]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2992,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>避运所得税资产减外</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_107_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2977,767]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2992,916]</rightDownIndex>
+						<content>－１２９．３．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_108_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3003,230]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3020,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content>避运所得税灸使增加</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_108_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3005,777]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3020,916]</rightDownIndex>
+						<content>－２６．０４１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_109_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3031,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3048,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>硕计免使的道加</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_109_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3033,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3046,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_110_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3059,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3076,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>存资的减外</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_110_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3061,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3076,917]</rightDownIndex>
+						<content>１５４．１２４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_111_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3087,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3104,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营性应收项目的减外</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_111_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3089,775]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3104,917]</rightDownIndex>
+						<content>１３３．９５０．０００．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_112_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3115,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3132,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营性应付项目的增加</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_112_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3117,767]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3132,916]</rightDownIndex>
+						<content>－４６ｏ．９２１．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_113_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3143,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3160,209]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>其他</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_113_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3145,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3160,917]</rightDownIndex>
+						<content>２６６．０３４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_114_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3171,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3188,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流量净锁其他项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_114_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3173,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3186,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_115_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3199,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3216,422]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>经营活动现金流量净锁平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_115_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3201,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3214,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_116_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3227,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3244,470]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>问接动一经营活动产生的现金流量净锁</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_116_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3229,759]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3244,917]</rightDownIndex>
+						<content>Ｚ．３９ｄ．０７５．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_117_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3255,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3272,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>务转为资本</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_117_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3257,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3270,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_118_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3283,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3300,407]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>一年内到期的可转换公司使务</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_118_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3285,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3298,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_119_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3311,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3328,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>融资租入固定资产</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_119_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3313,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3326,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_120_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3339,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3356,548]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>不游及现金收文的投资和等资活动金额其伦项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_120_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3341,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3354,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_121_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3367,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3384,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金的期未余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_121_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3369,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3384,917]</rightDownIndex>
+						<content>１２．８０６．２０７．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_122_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3395,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3412,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金的期初余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_122_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3397,750]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3412,917]</rightDownIndex>
+						<content>１０．５８７．０８：．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_123_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3423,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3440,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金等价物的期未余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_123_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3425,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3438,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_124_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3451,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3468,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金等价物的期初余颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_124_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3453,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3466,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_125_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3479,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3496,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金及现金等价物净道加敏其伦项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_125_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3481,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3494,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_126_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3507,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3524,458]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>现金及现金等价物净道加额平衡项目</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_126_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3509,864]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3522,917]</rightDownIndex>
+						<content>０．０００ｏ</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">xjllb_000_127_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3535,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3552,470]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content>问接沙一现金及现金等价物的净增加颜</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">xjllb_000_127_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[3537,758]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[3552,917]</rightDownIndex>
+						<content>２．２１９．１２４．０００．００００</content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+			</ImageBodyInfo>
+		</ImageBody>
+	</Image>

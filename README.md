@@ -1,7 +1,7 @@
 # SheetOCR
 Implementation of modern text detection and recognition models for OCR on financial sheets. (wip)
 
-## Reuqirements
+## Requirements
 - numpy
 - matplotlib
 - yaml
@@ -48,8 +48,8 @@ Implementation of modern text detection and recognition models for OCR on financ
 │   └── utils.py            
 ├── serve
 │   ├── word_detected/      # dir to detected word images
-│   ├── working/            #
-│   ├── ocr_serve.py        # 
+│   ├── working/            # working cache
+│   ├── ocr_serve.py        # ocr service
 │   ├── start.sh            # start ocr service
 │   ├── stop.sh             # stop ocr service
 ├── inference.py            # ocr inference (single/batch)
@@ -138,19 +138,23 @@ python train.py
 ```
 
 ## Inference
-### Single image inference
-`python inference.py -i [image path] -o [xml dir]`
+```python
+# single image inference
+python inference.py -i [image path] -o [xml dir]
 
-### Batch images inference
-`python inference.py -i [image dir] -o [xml dir]`
+# Batch images inference
+python inference.py -i [image dir] -o [xml dir]
+```
 
 ## Tools
-### Export to .png
-`python xml_vis.py -i [image path] -x [xml path] -o [output path]`
+```python
+# Export to .png
+python xml_vis.py -i [image path] -x [xml path] -o [output path]
 
-### Export to .csv
-`python xml2csv.py -x [xml path] -o [csv path]`
-`python xml2csv.py -x [xml dir] -o [csv dir]`
+# Export to .csv
+python xml2csv.py -x [xml path] -o [csv path]
+python xml2csv.py -x [xml dir] -o [csv dir]
+```
 
 ## Demo
 `sh demo.sh [image path] [csv path] [is_plot]`

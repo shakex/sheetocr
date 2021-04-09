@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Image name="lrb_000.png">
+		<ImageHead>
+			<Title>
+				<imageName description="the name of cutted image">lrb_000_000_0_H.png</imageName>
+				<leftUpIndex description="left-up coordinate">[35,481]</leftUpIndex>
+				<rightDownIndex description="right-down coordinate">[51,535]</rightDownIndex>
+				<content></content>
+				<isNotEmpty>True</isNotEmpty>
+			</Title>
+			<TitleInfo>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_001_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,178]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_001_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,198]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,286]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_002_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,718]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,792]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_002_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[63,812]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[79,910]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_003_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,178]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_003_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,197]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,264]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+				<TitleInfoEle>
+					<TitleInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_004_0_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,780]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,816]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoKeyEle>
+					<TitleInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_004_1_H.png</imageName>
+						<leftUpIndex description="left-up coordinate">[91,837]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[107,910]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</TitleInfoValueEle>
+				</TitleInfoEle>
+			</TitleInfo>
+		</ImageHead>
+		<ImageBody>
+			<ImageBodyInfo>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_005_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[119,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[136,234]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_005_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[121,729]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[136,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_006_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[147,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_006_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[149,729]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[164,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_007_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[175,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[192,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_007_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[177,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[192,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_008_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[203,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[220,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_008_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[205,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[218,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_009_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[231,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[248,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_009_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[233,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[246,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_010_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[259,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[276,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_010_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[261,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[274,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_011_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[287,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[304,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_011_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[289,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[302,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_012_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[315,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[332,234]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_012_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[317,729]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[332,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_013_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[343,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[360,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_013_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[345,738]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[360,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_014_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[371,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[388,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_014_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[373,772]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[388,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_015_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[399,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[416,316]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_015_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[401,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[414,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_016_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[427,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[444,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_016_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[429,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[442,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_017_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[455,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[472,227]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_017_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[457,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[470,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_018_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[483,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[500,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_018_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[485,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[498,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_019_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[511,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[528,371]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_019_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[513,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[526,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_020_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[539,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[556,280]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_020_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[541,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[554,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_021_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[567,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[584,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_021_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[569,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[582,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_022_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[595,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[612,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_022_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[597,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[610,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_023_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[623,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_023_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[625,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[640,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_024_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[651,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_024_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[653,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[668,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_025_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[679,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_025_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[681,747]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[696,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_026_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[707,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[724,244]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_026_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[709,763]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[724,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_027_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[735,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[752,289]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_027_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[737,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[750,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_028_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[763,221]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[780,290]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">2</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_028_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[765,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[778,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_029_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[791,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[808,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_029_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[793,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[808,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_030_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[819,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[836,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_030_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[821,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[834,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_031_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[847,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[864,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_031_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[849,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[862,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_032_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[875,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[892,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_032_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[877,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[890,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_033_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[903,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[920,332]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_033_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[905,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[918,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_034_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[931,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[948,253]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_034_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[926,651]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[950,913]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_035_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[959,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[976,317]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_035_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[961,756]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[976,905]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_036_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[987,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1004,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_036_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[989,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1004,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_037_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1015,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1032,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_037_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1017,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1032,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_038_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1043,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1060,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_038_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1045,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1058,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_039_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1071,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_039_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1073,783]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1088,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_040_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1099,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1116,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_040_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1101,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1114,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_041_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1127,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1144,245]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_041_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1129,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1142,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_042_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1155,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1172,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_042_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1157,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1170,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_043_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1183,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1200,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_043_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1185,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1198,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_044_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1211,105]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1228,215]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_044_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1213,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1228,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_045_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1239,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1256,263]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_045_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1241,747]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1256,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_046_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1267,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1284,335]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_046_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1269,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1284,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_047_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1295,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1312,262]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_047_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1297,764]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1312,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_048_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1323,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,353]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_048_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1325,773]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1340,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_049_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1351,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1368,368]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_049_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1353,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1366,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_050_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1379,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1396,314]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_050_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1381,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1394,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_051_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1407,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,215]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_051_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1409,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1424,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_052_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1435,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1452,227]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_052_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1437,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1452,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_053_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1463,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1480,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_053_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1465,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1478,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_054_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1491,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1508,350]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_054_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1493,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1506,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_055_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1519,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1536,395]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_055_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1521,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1534,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_056_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1547,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1564,196]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_056_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1549,748]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1564,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_057_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1575,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1592,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_057_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1577,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1590,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_058_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1603,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1620,299]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_058_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1605,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1618,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_059_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1631,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1648,389]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_059_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1633,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1646,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_060_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1659,185]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1676,409]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_060_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1661,747]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1676,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_061_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1687,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1704,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_061_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1689,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1704,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_062_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1715,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1732,296]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_062_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1717,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1730,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_063_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1743,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1760,386]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_063_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1745,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1758,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_064_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1771,104]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1788,222]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">0</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_064_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1766,651]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1790,913]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>False</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_065_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1799,179]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1816,326]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_065_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1801,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1814,903]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_066_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1827,179]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1844,326]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_066_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1829,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1842,903]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_067_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1855,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1872,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_067_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1857,741]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1872,905]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_068_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1883,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,443]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_068_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1885,741]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1900,905]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_069_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1911,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1928,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_069_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1913,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1926,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_070_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1939,176]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,281]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_070_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1941,747]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1956,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_071_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1967,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1984,461]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_071_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1969,749]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[1984,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_072_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1995,177]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2012,425]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_072_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[1997,762]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2012,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+				<BodyInfoEle>
+					<BodyInfoKeyEle>
+						<imageName description="the name of cutted image">lrb_000_073_0_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2023,178]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2040,497]</rightDownIndex>
+						<tabNum description="number of tabs at begin place">1</tabNum>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoKeyEle>
+					<BodyInfoValueEle>
+						<imageName description="the name of cutted image">lrb_000_073_1_B.png</imageName>
+						<leftUpIndex description="left-up coordinate">[2025,853]</leftUpIndex>
+						<rightDownIndex description="right-down coordinate">[2038,906]</rightDownIndex>
+						<content></content>
+						<isNotEmpty>True</isNotEmpty>
+					</BodyInfoValueEle>
+				</BodyInfoEle>
+			</ImageBodyInfo>
+		</ImageBody>
+	</Image>
