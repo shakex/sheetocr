@@ -16,7 +16,7 @@ Implementation of modern text detection and recognition models for OCR on financ
 ## Code structure
 ```shell
 ├── data
-│   ├── 3rd_tools/          # 3rd-party tools for text data processing        
+│   ├── 3rd/                # 3rd-party tools for text data processing        
 │   ├── dataset/            # dir to dataset
 │   ├── figs/               # dir to analytical figures
 │   ├── alphabets.py        # alphabet list
@@ -181,4 +181,4 @@ sh stop.sh
 ```
 
 ## Contact us
-For any problems, please contact kxie [AT] cib.com.cn
+For any problems, please contact kxie_shake [AT] outlook.com
