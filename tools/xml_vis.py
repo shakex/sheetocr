@@ -270,7 +270,7 @@ def detection_recognition_vis(img_path, xml_path, out_path, text_color=(0, 0, 0)
 
         img_draw = np.zeros((img.shape[0], img.shape[1], 3), np.uint8) + 255
         # TODO: add to params.py
-        font_face = '/Users/shake/Documents/Project/project_ocr/OCR_Hub/data/simsun.ttc'
+        font_face = '/home/pudding/data/project/SheetOCR/data/simsun.ttc'
         loc_dict = get_dict_from_xml(xml_path, dict_type='location')
         content_dict = get_dict_from_xml(xml_path, dict_type='content')
         for name, content in content_dict.items():
@@ -293,9 +293,9 @@ if __name__=='__main__':
     # parser.add_argument('-o', '--output', required=True, help='path to output image')
     args = parser.parse_args()
 
-    args.image = '/Users/shake/Documents/Project/project_ocr/OCR_Hub/demo/img/lrb_000.png'
-    args.xml = '/Users/shake/Documents/Project/project_ocr/OCR_Hub/demo/xml/zcfzb_000.xml'
-    args.output = '/Users/shake/Documents/Project/project_ocr/OCR_Hub/demo/plot/zcfzb_000_vis_crnn.png'
+    args.image = '/home/pudding/data/project/SheetOCR/demo/img/lrb_000.png'
+    args.xml = '/home/pudding/data/project/SheetOCR/demo/xml/lrb_000.xml/lrb_000.xml'
+    args.output = '/home/pudding/data/project/SheetOCR/demo/plot/lrb_000.png'
 
     if os.path.isfile(os.path.abspath(args.image)) and os.path.isfile(os.path.abspath(args.xml)):
         # detection_vis(os.path.abspath(args.image), os.path.abspath(args.xml), args.output)

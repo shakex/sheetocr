@@ -151,18 +151,21 @@ def inference_batch(input_dir, output_dir):
     print("{} - [INFO] - XML saved in {}".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), output_dir))
 
 
-# if __name__ == "__main__":
-#     parser = argparse.ArgumentParser()
-#     parser.add_argument('-i', '--input', required=True, help='path to input image')
-#     parser.add_argument('-o', '--output', required=True, help='path to output xml file')
-#     args = parser.parse_args()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    # parser.add_argument('-i', '--input', required=True, help='path to input image')
+    # parser.add_argument('-o', '--output', required=True, help='path to output xml file')
+    args = parser.parse_args()
 
-#     if not os.path.exists(args.output):
-#         os.makedirs(args.output)
+    args.input = '/home/pudding/data/project/SheetOCR/demo/img/lrb_000.png'
+    args.output = '/home/pudding/data/project/SheetOCR/demo/xml/lrb_000.xml'
 
-#     if os.path.isfile(os.path.abspath(args.input)):
-#         inference(os.path.abspath(args.input), os.path.abspath(args.output))
-#     elif os.path.isdir(args.input):
-#         inference_batch(os.path.abspath(args.input), os.path.abspath(args.output))
-#     else:
-#         raise ValueError("invalid input or output")
+    if not os.path.exists(args.output):
+        os.makedirs(args.output)
+
+    if os.path.isfile(os.path.abspath(args.input)):
+        inference(os.path.abspath(args.input), os.path.abspath(args.output))
+    elif os.path.isdir(args.input):
+        inference_batch(os.path.abspath(args.input), os.path.abspath(args.output))
+    else:
+        raise ValueError("invalid input or output")

@@ -400,6 +400,6 @@ class TextGenerator(object):
               .format(total_cnt, os.path.abspath(gen_save_dir)))
 
 
-# if __name__ == "__main__":
-#     generator = TextGenerator()
-#     generator.gen_eda(params.gen_save_dir)
+if __name__ == "__main__":
+    generator = TextGenerator()
+    generator.gen_eda(params.gen_save_dir)

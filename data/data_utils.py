@@ -237,7 +237,7 @@ def img_dir_padding(dir, save_dir):
 
 
 def create_alphabet_from_label(fp, out_dir):
-    out_path = os.path.join(os.path.abspath(out_dir), 'alphabets.py')
+    out_path = os.path.join(os.path.abspath(out_dir), 'alphabets/alphabets.py')
     reader = open(fp, 'r', encoding='utf-8')
     writer = open(out_path, 'w', encoding='utf-8')
     writer.write('# -*- coding: UTF-8 -*-' + '\n' + 'alphabet = """')

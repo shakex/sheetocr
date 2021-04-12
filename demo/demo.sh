@@ -32,8 +32,8 @@ IS_PLOT=$3
 # reqired python files
 # linux or macOS
 INFERENCE_FILE="$(dirname "$BASE_DIR")/inference.py"
-VIS_FILE="$(dirname "$BASE_DIR")/export/xml_vis.py"
-XML2CSV_FILE="$(dirname "$BASE_DIR")/export/xml2csv.py"
+VIS_FILE="$(dirname "$BASE_DIR")/tools/xml_vis.py"
+XML2CSV_FILE="$(dirname "$BASE_DIR")/tools/xml2csv.py"
 LOG_FILE="$BASE_DIR/log/$(date +%Y%m%d%H%M%S)_$(echo $(basename $IMAGE_PATH) | cut -d . -f1).log"
 
 XML_DIR="$BASE_DIR/xml"
@@ -50,7 +50,7 @@ main(){
     python $INFERENCE_FILE -i $IMAGE_PATH -o $XML_DIR               >>$LOG_FILE
 
     # plot result
-    cd "$(dirname "$BASE_DIR")/export"
+    cd "$(dirname "$BASE_DIR")/tools"
     if [ $IS_PLOT == '1' ]; then
         echo                                                        >>$LOG_FILE
         echo "-----------"                                          >>$LOG_FILE
@@ -61,7 +61,7 @@ main(){
     fi
 
     # xml2csv
-    cd "$(dirname "$BASE_DIR")/export"
+    cd "$(dirname "$BASE_DIR")/tools"
     echo                                                            >>$LOG_FILE
     echo "---------------"                                          >>$LOG_FILE
     echo "export csv file"                                          >>$LOG_FILE
